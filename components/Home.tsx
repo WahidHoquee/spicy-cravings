@@ -17,7 +17,7 @@ const Home = () => {
           কুপনটি সংগ্রহ করতে ইউটিউব চ্যানেলটি সাবস্ক্রাইব করুন। এবং ওয়েলকাম ফুড
           বুঝে নিন।
         </p>
-        <a href="linktw.in/MYgsD9">Get Coupon</a>
+        <a href="https://linktw.in/MYgsD9">Get Coupon</a>
       </div>
     </div>
   );

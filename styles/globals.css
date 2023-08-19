@@ -28,6 +28,7 @@ main {
   width: 100vw;
   background-color: #2f1611;
   color: #fff;
+  overflow: hidden;
 }
 
 @media only screen and (min-width: 768px) {
@@ -42,20 +43,20 @@ main {
 .splash {
   height: 100%;
   width: 100%;
-  background: rgb(98, 26, 21);
+  /* background: rgb(98, 26, 21);
   background: radial-gradient(
     circle,
     rgba(98, 26, 21, 1) 0%,
     rgba(98, 19, 14, 1) 13%,
     rgba(142, 14, 0, 1) 100%
-  );
+  ); */
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
 .splash img {
-  width: 100%;
+  width: 140%;
 }
 
 /**************** Home ****************/
