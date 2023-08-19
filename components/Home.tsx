@@ -4,9 +4,14 @@ import React from "react";
 const Home = () => {
   return (
     <div className="home">
-      <img src="/recipe.jpg" alt="Cover Photo" />
+      <div className="image-wrapper">
+        <img
+          src="https://images.pexels.com/photos/2233729/pexels-photo-2233729.jpeg?auto=compress&cs=tinysrgb&w=1600"
+          alt="Cover Photo"
+        />
+        <div className="layer"></div>
+      </div>
       <div className="home-body">
-        {/* <h2>Subscribe Youtube Now</h2> */}
         <h2>Spicy Cravings</h2>
         <p>
           কুপনটি সংগ্রহ করতে ইউটিউব চ্যানেলটি সাবস্ক্রাইব করুন। এবং ওয়েলকাম ফুড
